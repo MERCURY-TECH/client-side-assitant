@@ -1,0 +1,30 @@
+{
+  "name": "client-side-assistant",
+  "version": "1.0.0",
+  "description": "Client Side assistant is a library belt to specialy help in front end development. It makes available out of the box the necessary tooling rapidly add heavy functionality to the front end with little stress. This library tries to combine a variety of front end problems, and provide the right and fast tooling to each, more it acts as an aggregate for multiple modular libraries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MERCURY-TECH/client-side-assitant.git"
+  },
+  "keywords": [
+    "front",
+    "end",
+    "development",
+    "automated",
+    "front",
+    "end",
+    "task",
+    "added",
+    "AI"
+  ],
+  "author": "Mercury-Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MERCURY-TECH/client-side-assitant/issues"
+  },
+  "homepage": "https://github.com/MERCURY-TECH/client-side-assitant#readme"
+}
