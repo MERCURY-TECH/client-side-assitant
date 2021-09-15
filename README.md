@@ -1,0 +1,2 @@
+# client-side-assitant
+Client Side assistant is a library belt to specialy help in front end development. It makes available out of the box the necessary tooling rapidly add heavy functionality to the front end with little stress. This library tries to combine a variety of front end problems, and provide the right and fast tooling to each, more it acts as an aggregate for multiple modular libraries. 
